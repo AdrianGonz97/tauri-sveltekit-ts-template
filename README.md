@@ -1,7 +1,5 @@
 # Tauri + SvelteKit + Typescript Template
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
-
 ## Prerequisites
 
 Be sure you have installed all of the prerequisites for running a Tauri project. You can find them [`here`](https://tauri.studio/v1/guides/getting-started/prerequisites).
